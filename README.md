@@ -13,7 +13,7 @@
 
 # Welcome to my profile!
 
-## Hi! My name is William Douglas, I'm a student in Computer Science! 😄
+## Hi! My name is William Douglas, I'm a student in Science Computer! 😄
 ## I'm Coding marathon programmer, passionate about technology and innovation! 💻
 ## Learning is continuous and there will always be a next level
 
