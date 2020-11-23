@@ -15,3 +15,7 @@
 <a href="mailto:williamdouglasgomes@hotmail.com">
   <img height="20" max-width="80" src="https://github.com/WilliamDCGomes/williamdcgomes/blob/main/gif/buttonEmail.png">
 </a>
+
+# Lastest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
