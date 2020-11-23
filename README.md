@@ -18,7 +18,7 @@
 ---
 <br><br>
 
-## How to reach me
+##         How to reach me
 <a href="https://www.linkedin.com/in/william-douglas-costa-gomes-4a087817a/">
   <img height="20" max-width="80" src="https://github.com/WilliamDCGomes/williamdcgomes/blob/main/gif/buttonLinkedin.png">
 </a>
