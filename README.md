@@ -16,6 +16,7 @@
 <img align="left" alt="WilliamDCGomes's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamDCGomes&hide_border=true" />
 
 ---
+<br><br>
 
 ## How to reach me
 <a href="https://www.linkedin.com/in/william-douglas-costa-gomes-4a087817a/">
