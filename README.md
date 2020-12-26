@@ -3,9 +3,9 @@
 
 # Welcome to my profile!
 
-## Hi! My name is William Douglas, I'm a student in Computer Science! 😄
+## Hi! My name is William Douglas, I'm a student in Computer Science and intern in mobile programming! 😄
 ## I'm Coding marathon programmer, passionate about technology and innovation! 💻
-## Learning is continuous and there will always be a next level
+## I am always looking to learn new things, because I believe I can always improve and get closer to my goals!
 
 <!-- BLOG-POST-LIST:END -->
 
