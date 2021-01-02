@@ -38,7 +38,7 @@
   <img align="left" alt="WilliamDCGomes's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamDCGomes&hide_border=true&theme=dracula" />
   <img align="left" alt="WilliamDCGomes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WilliamDCGomes&show_icons=true&hide_border=true&theme=dracula" />
 </p>
-<p align = "right">
+<p align = "left">
   <a href="https://pufler.dev/git-badges/">
     <img height="20" max-width="80" src="https://badges.pufler.dev/repos/WilliamDCGomes">
   </a>
