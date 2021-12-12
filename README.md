@@ -9,12 +9,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### How to reach me
-<a href="https://www.linkedin.com/in/william-douglas-costa-gomes-4a087817a/">
-  <img height="20" max-width="80" src="https://github.com/WilliamDCGomes/williamdcgomes/blob/main/gif/buttonLinkedin.png">
-</a>
-<a href="mailto:williamdouglasgomes@hotmail.com">
-  <img height="20" max-width="80" src="https://github.com/WilliamDCGomes/williamdcgomes/blob/main/gif/buttonEmail.png">
-</a>
+<a href="https://www.instagram.com/willl_douglas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/william-douglas-costa-gomes-4a087817a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:williamdouglasgomes@hotmail.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
