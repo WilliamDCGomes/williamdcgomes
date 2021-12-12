@@ -41,3 +41,5 @@
     <img height="20" max-width="80" src="https://badges.pufler.dev/commits/monthly/WilliamDCGomes">
   </a>
 </p>
+<br><br><br>
+![Snake animation](https://github.com/WilliamDCGomes/WilliamDCGomes/blob/output/github-contribution-grid-snake.svg)
