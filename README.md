@@ -43,11 +43,10 @@
 </br>
 </br>
 </br>
-</br>
 
 <p align = "center">
-  <img alt="WilliamDCGomes's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamDCGomes&hide_border=true&theme=dracula" />
-  <img alt="WilliamDCGomes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WilliamDCGomes&show_icons=true&hide_border=true&theme=dracula" />
+ <img  height="180em" alt="WilliamDCGomes's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamDCGomes&&layout=compact&hide_border=true&theme=dracula" />
+ <img  height="180em" alt="WilliamDCGomes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WilliamDCGomes&show_icons=true&hide_border=true&theme=dracula" />
 </p>
 
 <p align = "center">
@@ -62,7 +61,9 @@
     <img height="20" max-width="80" src="https://badges.pufler.dev/commits/monthly/WilliamDCGomes">
   </a>
 </p>
-<br><br><br>
+
+</br>
+
 <h2 align="center">
   Meu Quadro de Contribuições <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
