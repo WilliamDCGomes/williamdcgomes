@@ -42,4 +42,9 @@
   </a>
 </p>
 <br><br><br>
-![Snake animation](https://github.com/WilliamDCGomes/WilliamDCGomes/blob/output/github-contribution-grid-snake.svg)
+<h2 align="center">
+  Meu Quadro de Contribuições <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+  <img src="https://github.com/WilliamDCGomes/WilliamDCGomes/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
