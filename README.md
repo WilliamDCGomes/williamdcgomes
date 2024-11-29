@@ -3,8 +3,7 @@
 
 # Welcome to my profile!
 
-## Hi! My name is William Douglas, I'm graduated in Computer Science and a Mobile Developer! 😄
-## I'm Coding marathon programmer, passionate about technology, innovation and always looking to learn new things!
+## Hi! My name is William Douglas, I'm a Developer! 😄
 
 <!-- BLOG-POST-LIST:END -->
 
